@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdoul</h1>
 <h3 align="center">A passionate full-stack mobile & web developer,cloud-devops engineer,Mathematician,and ML/AI Engineer</h3>
 
-- 🔭 I’m currently working on **Full-Stack E-Commerce Platform: Mobile & Web Microservices**
+- 🔭 I’m currently working on **Full-Stack E-Commerce Platform: Mobile & Web Microservices,Aiops,Finops & Cloud-Devops ,and AI business automation as well as  security projects **
 
-- 👯 I worked on **E-commerce full-stack mobile and web app**
+- 👯 I worked on **E-commerce full-stack mobile and web app,Cloud-Devops,AI automation projects**
 
 - 📫 How to reach me **karenzoaboul@gmail.com**
 
