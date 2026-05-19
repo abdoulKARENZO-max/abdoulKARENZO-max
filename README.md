@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **karenzoaboul@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mXFYYca8xPa3cGGr9GiquSSqIKRBKG_9/view?usp=drive_link](https://drive.google.com/file/d/1mXFYYca8xPa3cGGr9GiquSSqIKRBKG_9/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1mXFYYca8xPa3cGGr9GiquSSqIKRBKG_9/view?usp=drive_link](https://drive.google.com/file/d/17Ev2e5kwfLE9aMrOwoJM-u-rmzpPZNJN/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
