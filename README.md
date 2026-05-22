@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Full-Stack E-Commerce Platform: Mobile & Web Microservices,Aiops,Finops & Cloud-Devops ,and AI business automation as well as  security projects **
 
-- 👯 I worked on **E-commerce full-stack mobile and web app,Cloud-Devops,AI automation projects**
+- 👯 I worked on E-commerce full-stack mobile and web app,Cloud-Devops,AI automation projects
 
-- 📫 How to reach me **karenzoaboul@gmail.com**
+- 📫 How to reach me karenzoaboul@gmail.com
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mXFYYca8xPa3cGGr9GiquSSqIKRBKG_9/view?usp=drive_link](https://drive.google.com/file/d/17Ev2e5kwfLE9aMrOwoJM-u-rmzpPZNJN/view?usp=drive_link)
 
