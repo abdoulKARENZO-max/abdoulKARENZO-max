@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdoul</h1>
-<h3 align="center">A passionate full-stack developer,cloud-devops enginee,Mathematican,and ML/AI Engineer</h3>
+<h3 align="center">A passionate full-stack developer,cloud-devops engineer,Mathematican,and ML/AI Engineer</h3>
 
 - 🔭 I’m currently working on **Full-Stack E-Commerce Platform: Mobile & Web Microservices,Aiops,Finops & Cloud-Devops ,and AI business automation as well as security projects**
 
