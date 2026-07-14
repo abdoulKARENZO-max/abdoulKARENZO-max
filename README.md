@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Cloud+DevOps+%26+Platform+Engineer;Mathematician;ML+%2F+AI+Automation+Engineer" alt="Typing SVG" />
 </p>
 
-- 🔭 I’m currently working on **Full-Stack E-Commerce Platform: Mobile & Web Microservices, AIOps, FinOps, Cloud-DevOps, and AI business automation as well as security projects.**
-- 👯 I worked on **E-commerce full-stack mobile and web apps, Cloud-DevOps, and AI automation projects.**
-- 📫 How to reach me: **karenzoaboul@gmail.com**
+- 🔭 I’m currently working on **Full-Stack E-Commerce Platform: Mobile & Web Microservices, AIOps, FinOps, Cloud-DevOps, and AI business automation as well as security projects**
+- 👯 I worked on **on E-commerce full-stack mobile and web app,Cloud-DevOps,AI automation projects**
+- 📫 How to reach me **karenzoaboul@gmail.com**
 
 ---
 
@@ -82,12 +82,12 @@
 ### 📊 GitHub Stats & Streaks
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight&count_private=true" alt="Abdoul's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME_HERE&theme=tokyonight" alt="Abdoul's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdoulKARENZO-max&show_icons=true&theme=tokyonight&count_private=true" alt="Abdoul's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdoulKARENZO-max&theme=tokyonight" alt="Abdoul's GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight" alt="Top Languages" width="55%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoulKARENZO-max&layout=compact&theme=tokyonight" alt="Top Languages" width="55%" />
 </p>
 
 ---
@@ -95,5 +95,5 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME_HERE&theme=tokyonight&bg_color=1a1b27&color=70a5fd&line=5e81ac&point=88c0d0&area=true&hide_border=true" alt="Abdoul's Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdoulKARENZO-max&theme=tokyonight&bg_color=1a1b27&color=70a5fd&line=5e81ac&point=88c0d0&area=true&hide_border=true" width="100%" />
 </p>
