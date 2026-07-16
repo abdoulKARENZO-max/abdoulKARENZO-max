@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AbdouL</h1>
+<h1 align="center">Hi 👋, I'm Abdoul</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Cloud+DevOps+%26+Platform+Engineer;Mathematician;ML+%2F+AI+Automation+Engineer" alt="Typing SVG" />
@@ -11,6 +11,7 @@
 ---
 
 ### Connect with me:
+
 <p align="left">
 <a href="https://linkedin.com/in/abdoul-karenzo-b0674a395" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
@@ -18,6 +19,7 @@
 ---
 
 ### Languages and Tools:
+
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
   <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> 
@@ -82,7 +84,12 @@
 ### 📊 GitHub Stats & Streaks
 
 <p align="center">
-  <img src="./generated-github-stats.svg" alt="Abdoul's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdoulKARENZO-max&show_icons=true&theme=tokyonight&count_private=true" alt="Abdoul's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdoulKARENZO-max&theme=tokyonight" alt="Abdoul's GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoulKARENZO-max&layout=compact&theme=tokyonight" alt="Top Languages" width="55%" />
 </p>
 
 ---
