@@ -1,0 +1,21 @@
+name: Generate GitHub Stats Card
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # runs daily at midnight UTC
+  workflow_dispatch:      # lets you trigger it manually too
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: anuraghazra/github-readme-stats-action@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: abdoulKARENZO-max
+          show_icons: true
+          theme: tokyonight
+          count_private: true
