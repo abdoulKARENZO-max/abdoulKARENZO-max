@@ -82,12 +82,7 @@
 ### 📊 GitHub Stats & Streaks
 
 <p align="center">
-  <img src="https://github-readme-stats.demolab.com/api?username=abdoulKARENZO-max&show_icons=true&theme=tokyonight&count_private=true" alt="Abdoul's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdoulKARENZO-max&theme=tokyonight" alt="Abdoul's GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.demolab.com/api/top-langs/?username=abdoulKARENZO-max&layout=compact&theme=tokyonight" alt="Top Languages" width="55%" />
+  <img src="./generated-github-stats.svg" alt="Abdoul's GitHub Stats" width="48%" />
 </p>
 
 ---
