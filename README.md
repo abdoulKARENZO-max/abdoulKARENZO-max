@@ -78,7 +78,9 @@
   <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a> 
   <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> 
 </p>
+
 ---
+
 ### 📊 GitHub Stats & Streaks
 
 <p align="center">
@@ -95,5 +97,5 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdoulKARENZO-max&theme=tokyonight&bg_color=1a1b27&color=70a5fd&line=5e81ac&point=88c0d0&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=10" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdoulKARENZO-max&theme=tokyonight&bg_color=1a1b27&color=70a5fd&line=5e81ac&point=88c0d0&area=true&hide_border=true" width="100%" />
 </p>
