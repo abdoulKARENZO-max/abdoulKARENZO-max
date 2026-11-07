@@ -81,21 +81,17 @@
 
 ---
 
-### 📊 GitHub Stats & Streaks
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdoulKARENZO-max&show_icons=true&theme=tokyonight&count_private=true" alt="Abdoul's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdoulKARENZO-max&theme=tokyonight" alt="Abdoul's GitHub Streak" width="48%" />
+  <img src="./github-metrics.svg" alt="GitHub metrics" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoulKARENZO-max&layout=compact&theme=tokyonight" alt="Top Languages" width="55%" />
-</p>
-
----
-
-### 📈 Activity Graph
+### 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdoulKARENZO-max&theme=tokyonight&bg_color=1a1b27&color=70a5fd&line=5e81ac&point=88c0d0&area=true&hide_border=true" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdoulKARENZO-max/abdoulKARENZO-max/output/github-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/abdoulKARENZO-max/abdoulKARENZO-max/output/github-snake.svg" />
+  </picture>
 </p>
