@@ -78,20 +78,22 @@
   <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a> 
   <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> 
 </p>
+---
+### 📊 GitHub Stats & Streaks
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdoulKARENZO-max&show_icons=true&theme=tokyonight&count_private=true" alt="Abdoul's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdoulKARENZO-max&theme=tokyonight" alt="Abdoul's GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoulKARENZO-max&layout=compact&theme=tokyonight" alt="Top Languages" width="55%" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 Activity Graph
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub metrics" width="100%" />
-</p>
-
-### 🐍 Contribution Graph
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdoulKARENZO-max/abdoulKARENZO-max/output/github-snake-dark.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/abdoulKARENZO-max/abdoulKARENZO-max/output/github-snake.svg" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdoulKARENZO-max&theme=tokyonight&bg_color=1a1b27&color=70a5fd&line=5e81ac&point=88c0d0&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=10" width="100%" alt="Activity Graph" />
 </p>
