@@ -3,6 +3,7 @@
 <p align="center">
   <img src="./profile-cards/typing.svg" alt="Typing SVG" />
 </p>
+
 - 🔭 I’m currently working on **Full-Stack E-Commerce Platform: Mobile & Web Microservices, AIOps, FinOps, Cloud-DevOps, and AI business automation as well as security projects**
 - 👯 I worked on **E-commerce full-stack mobile and web apps, Cloud-DevOps, and AI automation projects**
 - 📫 How to reach me: **karenzoaboul@gmail.com**
@@ -12,7 +13,7 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/abdoul-karenzo-b0674a395" target="_blank" rel="noreferrer">
+  <a href="https://linkedin.com/in/abdoul-karenzo-b0674a395" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:karenzoaboul@gmail.com">
