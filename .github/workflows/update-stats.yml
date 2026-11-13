@@ -22,17 +22,25 @@ jobs:
           USERNAME: abdoulKARENZO-max
           THEME: tokyonight
 
-      - name: Generate Activity Graph & Trophies SVGs
+      - name: Generate Activity Graph SVG
+        uses: Ashutosh00710/github-readme-activity-graph@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: abdoulKARENZO-max
+          THEME: tokyonight
+          BG_COLOR: 1a1b27
+          COLOR: 70a5fd
+          LINE: 5e81ac
+          POINT: 88c0d0
+          AREA: true
+          HIDE_BORDER: true
+          OUTPUT_DIR: profile-cards
+          FILE_NAME: activity-graph.svg
+
+      - name: Generate GitHub Trophies SVG
         run: |
           mkdir -p profile-cards
-
-          # 1. Fetch Activity Graph
-          curl -s "https://github-readme-activity-graph.vercel.app/graph?username=abdoulKARENZO-max&theme=tokyonight&bg_color=1a1b27&color=70a5fd&line=5e81ac&point=88c0d0&area=true&hide_border=true" -o profile-cards/activity-graph.svg
-          if ! grep -q "<svg" profile-cards/activity-graph.svg; then
-            git checkout -- profile-cards/activity-graph.svg 2>/dev/null || rm -f profile-cards/activity-graph.svg
-          fi
-
-          # 2. Fetch GitHub Trophies (try primary mirror, fallback to secondary)
           curl -s "https://github-trophies.vercel.app/?username=abdoulKARENZO-max&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" -o profile-cards/trophies.svg
           if ! grep -q "<svg" profile-cards/trophies.svg; then
             curl -s "https://github-profile-trophy.vercel.app/?username=abdoulKARENZO-max&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" -o profile-cards/trophies.svg
