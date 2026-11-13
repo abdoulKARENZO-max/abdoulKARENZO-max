@@ -12,7 +12,7 @@ jobs:
       contents: write
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Generate GitHub Profile Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
@@ -29,9 +29,17 @@ jobs:
           outputs: |
             profile-cards/activity-graph.svg?palette=github-dark
 
-      - name: Generate GitHub Trophies SVG
+      - name: Cache Typing SVG & GitHub Trophies SVG
         run: |
           mkdir -p profile-cards
+
+          # 1. Cache Typing SVG locally so it never breaks
+          curl -s "https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7¢er=true&vCenter=true&width=700&lines=Full-Stack+Developer;Cloud+DevOps+%26+Platform+Engineer;Mathematician;ML+%2F+AI+Automation+Engineer" -o profile-cards/typing.svg
+          if ! grep -q "<svg" profile-cards/typing.svg; then
+            git checkout -- profile-cards/typing.svg 2>/dev/null || rm -f profile-cards/typing.svg
+          fi
+
+          # 2. Cache GitHub Trophies SVG
           curl -s "https://github-trophies.vercel.app/?username=abdoulKARENZO-max&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" -o profile-cards/trophies.svg
           if ! grep -q "<svg" profile-cards/trophies.svg; then
             curl -s "https://github-profile-trophy.vercel.app/?username=abdoulKARENZO-max&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" -o profile-cards/trophies.svg
@@ -45,5 +53,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          git diff --staged --quiet || git commit -m "Update profile stats, trophies, and activity graph"
+          git diff --staged --quiet || git commit -m "Update profile stats, typing banner, trophies, and activity graph"
           git push
