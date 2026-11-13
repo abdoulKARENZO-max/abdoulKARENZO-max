@@ -3,9 +3,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Cloud+DevOps+%26+Platform+Engineer;Mathematician;ML+%2F+AI+Automation+Engineer" alt="Typing SVG" />
 </p>
-- 🔭 I’m currently working on **Full-Stack E-Commerce Platform: Mobile & Web Microservices, AIOps, FinOps, Cloud-DevOps, and AI business automation as well as security projects**
-- 👯 I worked on **E-commerce full-stack mobile and web apps, Cloud-DevOps, and AI automation projects**
-- 📫 How to reach me: **karenzoaboul@gmail.com**
+- 🔭 I’m currently working on Full-Stack E-Commerce Platform: Mobile & Web Microservices, AIOps, FinOps, Cloud-DevOps, and AI business automation as well as security projects
+- 👯 I worked on E-commerce full-stack mobile and web apps, Cloud-DevOps, and AI automation projects
+- 📫 How to reach me:karenzoaboul@gmail.com
 
 ---
 
