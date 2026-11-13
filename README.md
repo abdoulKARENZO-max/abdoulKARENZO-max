@@ -1,24 +1,29 @@
 <h1 align="center">Hi 👋, I'm ABDOUL</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Cloud+DevOps+%26+Platform+Engineer;Mathematician;ML+%2F+AI+Automation+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7¢er=true&vCenter=true&width=700&lines=Full-Stack+Developer;Cloud+DevOps+%26+Platform+Engineer;Mathematician;ML+%2F+AI+Automation+Engineer" alt="Typing SVG" />
 </p>
 
 - 🔭 I’m currently working on **Full-Stack E-Commerce Platform: Mobile & Web Microservices, AIOps, FinOps, Cloud-DevOps, and AI business automation as well as security projects**
-- 👯 I worked on **on E-commerce full-stack mobile and web app,Cloud-DevOps,AI automation projects**
-- 📫 How to reach me **karenzoaboul@gmail.com**
+- 👯 I worked on **E-commerce full-stack mobile and web apps, Cloud-DevOps, and AI automation projects**
+- 📫 How to reach me: **karenzoaboul@gmail.com**
 
 ---
 
-### Connect with me:
+### 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/abdoul-karenzo-b0674a395" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/abdoul-karenzo-b0674a395" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:karenzoaboul@gmail.com">
+    <img src="https://img.shields.io/badge/Email-karenzoaboul%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
-### Languages and Tools:
+### 🛠️ Languages and Tools
 
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
@@ -84,12 +89,24 @@
 ### 📊 GitHub Stats & Streaks
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdoulKARENZO-max&show_icons=true&theme=tokyonight&count_private=true" alt="Abdoul's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdoulKARENZO-max&theme=tokyonight" alt="Abdoul's GitHub Streak" width="48%" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Abdoul's Profile Details" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoulKARENZO-max&layout=compact&theme=tokyonight" alt="Top Languages" width="55%" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Abdoul's GitHub Stats" width="48%" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abdoulKARENZO-max&theme=tokyonight" alt="Abdoul's GitHub Streak" width="55%" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="./profile-cards/trophies.svg" alt="Abdoul's GitHub Trophies" width="100%" />
 </p>
 
 ---
@@ -97,5 +114,5 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdoulKARENZO-max&theme=tokyonight&bg_color=1a1b27&color=70a5fd&line=5e81ac&point=88c0d0&area=true&hide_border=true" width="100%" />
+  <img src="./profile-cards/activity-graph.svg" alt="Abdoul's Activity Graph" width="100%" />
 </p>
